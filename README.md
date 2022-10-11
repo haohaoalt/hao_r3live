@@ -1,4 +1,6 @@
 # R3LIVE
+## hao_r3live
+2022-10-11
 ## A Robust, Real-time, RGB-colored, LiDAR-Inertial-Visual tightly-coupled state Estimation and mapping package
 
 
